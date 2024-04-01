@@ -1,1 +1,1 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Python Functions Lab](./assets/tktk-hero.png)
