@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, you will practice writing functions in Python. You will write functions that take in arguments and return values. You will also write functions that use conditional statements and loops.
 
 ## Prerequisites
 
