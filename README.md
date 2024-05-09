@@ -2,15 +2,17 @@
 
 ## About
 
-In this lab, you will practice writing functions in Python. You will write functions that take in arguments and return values. You will also write functions that use conditional statements and loops.
+In this lab, you'll complete practical exercises designed to enhance your proficiency in writing functions in Python. You'll write functions that take arguments and return values, incorporating control flow patterns such as conditional statements and loops.
+
+By the end of this lab, you should feel comfortable with the syntax and dynamics of Python functions, preparing you for more complex programming challenges.
 
 ## Prerequisites
 
-- tktk
+- Python Functions
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **60 min**
 
 ## Content
 
@@ -19,7 +21,7 @@ Estimated time to complete core lab exercise: **tktk min**
 
 ## Solution code
 
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/python-for-javascript-developers-functions-lab-solution)
 
 ## Internal resources
 
