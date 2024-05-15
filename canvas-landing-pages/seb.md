@@ -1,4 +1,4 @@
-# ![Python Functions Lab](../assets/tktk-hero.png)
+# ![Python Functions Lab](../assets/hero.png)
 
 ## About
 
