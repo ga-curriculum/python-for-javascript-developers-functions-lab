@@ -1,4 +1,7 @@
-# ![Python Functions Lab - Exercise](./assets/hero.png)
+<h1>
+  <span class="headline">Functions Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 
 In this lab, you'll get hands-on practice defining and calling functions in Python. By the end, you will be able to:
 
