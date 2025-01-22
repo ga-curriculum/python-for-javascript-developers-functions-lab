@@ -1,4 +1,7 @@
-# ![Python Functions Lab](../assets/hero.png)
+<h1>
+  <span class="prefix">Python for JavaScript Developers</span>
+  <span class="headline">Functions Lab</span>
+</h1>
 
 ## About
 
